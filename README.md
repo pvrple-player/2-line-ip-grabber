@@ -1,4 +1,4 @@
-# 2 line ip grabber
+# ip grabber in 2 lines
 
 This Python script retrieves the IP address of the user's machine and sends it to a Discord webhook.
 
